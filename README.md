@@ -42,8 +42,8 @@ Results: Using bulleted lists and images to support your answers, address the fo
 In summary, the deep learning model achieved an overall accuracy exceeding 75%, demonstrating its ability to correctly classify applicants in the test set 75% or more of the time. Moreover, an interesting insight emerged from the analysis, indicating that applicants have an 80% chance of success if they fulfill specific criteria:
 
 The applicant's name appears more than 5 times.
-The application type falls within the categories T3, T4, T5, T6, T7, T8, T9, T10, or T19.
-The application aligns with specific classifications...
+The application type falls within the categories T3 T4 T5 T6 T7 T8 T9 T10 or T19.
+The application aligns with specific classifications C1000 ,C2000 ,C1200 , C2100, C3000 
 
 
 #Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
